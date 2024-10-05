@@ -5,6 +5,12 @@
 # tickterial: forex & cfd tick data
 Download and cache tick data from Dukascopy Bank SA.
 
+## Dev from localhost
+
+```
+pip3 install .
+```
+
 ## Installation ::Python3
 - `pip install tickterial`
 - `tickterial -h` to check supported arguments.
