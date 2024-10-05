@@ -8,7 +8,8 @@ Download and cache tick data from Dukascopy Bank SA.
 ## Dev from localhost
 
 ```
-pip3 install .
+make install
+make dl
 ```
 
 ## Installation ::Python3
